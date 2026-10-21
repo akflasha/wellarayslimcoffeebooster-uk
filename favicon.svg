@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Wellaray W favicon</title>
+  <desc id="desc">Dark burgundy serif letter W on a soft pink square background.</desc>
+
+  <!-- Editable background color -->
+  <rect width="256" height="256" fill="#FBE7E9"/>
+
+  <!-- Editable letter, color and font -->
+  <text
+    x="128"
+    y="210"
+    fill="#5B1D20"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="224"
+    font-weight="400"
+    text-anchor="middle"
+  >W</text>
+</svg>
